@@ -8,11 +8,11 @@ import (
 	"runtime"
 	"sync"
 
-	io "github.com/RenatoGeh/gospn/io"
-	learn "github.com/RenatoGeh/gospn/learn"
-	spn "github.com/RenatoGeh/gospn/spn"
-	sys "github.com/RenatoGeh/gospn/sys"
-	utils "github.com/RenatoGeh/gospn/utils"
+	io "github.com/dconaty/gospn/io"
+	learn "github.com/dconaty/gospn/learn"
+	spn "github.com/dconaty/gospn/spn"
+	sys "github.com/dconaty/gospn/sys"
+	utils "github.com/dconaty/gospn/utils"
 	//profile "github.com/pkg/profile"
 )
 
